@@ -3,7 +3,7 @@ Play a game of [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) on the c
 
 ### Usage
 
-Assuming you're working on a Windows platform: clone the project locally and compile with 
+Assuming you're working on a Windows platform, clone the project locally and compile with 
 [Developer Command Prompt for Visual Studio](https://msdn.microsoft.com/en-us/library/ms229859(v=vs.110).aspx).
 
 ```bash
